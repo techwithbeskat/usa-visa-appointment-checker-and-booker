@@ -2,6 +2,11 @@
 
 This script, named PowellShell, automates the process of checking and booking USA visa appointment dates. It utilizes PowerShell scripting language and web requests to interact with the USA visa appointment system.
 
+If you find this repository helpful, consider supporting me by clicking [here](https://paypal.me/techwithbeskat) or scanning the QR code below. Thank you!
+
+![img_3.png](img_3.png)
+
+
 ## Prerequisites
 
 Before using this script, ensure you have the following information:
